@@ -9,12 +9,14 @@ Features include user authentication, sentiment classification, Redis caching, s
 - Sentiment enum classification
 - Redis caching
 - Scheduled background tasks
-- Weather API integration
+- External API integration with weatherstack.com
 
 ## Tech Stack
 - Java 17
 - Spring Boot
 - Spring Security
+- MongoDB
 - Redis
 - JWT
 - Maven
+- Swagger
