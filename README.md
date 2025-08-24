@@ -10,6 +10,7 @@ Features include user authentication, sentiment classification, Redis caching, s
 - Redis caching
 - Scheduled background tasks
 - External API integration with weatherstack.com
+- OAuth2 integration with google
 
 ## Tech Stack
 - Java 17
@@ -18,5 +19,6 @@ Features include user authentication, sentiment classification, Redis caching, s
 - MongoDB
 - Redis
 - JWT
+- OAuth2
 - Maven
 - Swagger
